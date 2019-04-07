@@ -1,0 +1,7 @@
+<suite name="LearnMaven">
+	<test name="Test Maven">
+		<packages>
+			<package name="Test.Test.*" />
+		</packages>
+	</test>
+</suite>
